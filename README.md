@@ -174,5 +174,5 @@ Ce projet est sous licence **MIT**. Vous êtes libre de l'utiliser, le modifier 
 ---
 
 <p align="center">
-  Développé avec ❤️ en Java
+
 </p>
